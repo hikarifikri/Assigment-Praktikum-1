@@ -1,0 +1,44 @@
+body{
+    font-family: Cambria;
+}
+
+a{
+    text-decoration: none;
+}
+
+b{
+    font-size: 90px;
+}
+
+h3{
+    margin-left: 375px;
+}
+
+ol{
+    margin-left: 355px;
+}
+
+h1{
+    font-family: verdana black;
+    line-height: 1.0;
+    font-size: 48px
+}
+
+h2{
+    font-family: Verdana;
+    font-size: 20px;
+    line-height: 1.0;
+    margin-left: 375px;
+}
+
+ pre{
+     margin-left:375px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+
+
+p{
+    font-size: 11px;
+    line-height: 0.05;
+}
